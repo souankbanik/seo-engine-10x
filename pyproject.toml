@@ -1,0 +1,23 @@
+[project]
+name = "claude-seo-10x"
+version = "3.0.0"
+description = "Universal Autonomous SEO & AI Search Engine by Souank Banik"
+requires-python = ">=3.11"
+license = "MIT"
+readme = "README.md"
+authors = [
+  {name = "Souank Banik"}
+]
+keywords = ["seo", "parasite-seo", "pagerank", "claude-code", "ai-tools", "schema-markup", "e-e-a-t", "geo", "llms-txt"]
+
+[project.urls]
+Homepage = "https://github.com/souankbanik/claude-seo-10x"
+Repository = "https://github.com/souankbanik/claude-seo-10x"
+
+[tool.ruff]
+target-version = "py311"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I"]
+ignore = ["E501"]

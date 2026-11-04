@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: Claude-SEO 10X
+message: >-
+  If you use this software, please cite it using the metadata from this file.
+type: software
+authors:
+  - alias: souankbanik
+    given-names: Souank
+    family-names: Banik
+    website: 'https://github.com/souankbanik'
+repository-code: 'https://github.com/souankbanik/claude-seo-10x'
+url: 'https://github.com/souankbanik/claude-seo-10x'
+license: MIT
+version: 3.0.0
+date-released: '2026-11-05'
+keywords:
+  - seo
+  - parasite-seo
+  - pagerank
+  - claude-code
+  - ai-search
+  - geo
