@@ -7,6 +7,7 @@ authors:
   - alias: souankbanik
     given-names: Souank
     family-names: Banik
+    affiliation: Nexus Web Studios
     website: 'https://github.com/souankbanik'
 repository-code: 'https://github.com/souankbanik/claude-seo-10x'
 url: 'https://github.com/souankbanik/claude-seo-10x'
@@ -20,3 +21,4 @@ keywords:
   - claude-code
   - ai-search
   - geo
+  - autofix
